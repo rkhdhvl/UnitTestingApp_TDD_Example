@@ -1,4 +1,4 @@
-package com.practice.unittesting;
+package com.practice.unittesting.models;
 
 import com.practice.unittesting.models.Note;
 
